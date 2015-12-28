@@ -1,6 +1,6 @@
 name: Mike Katilius
 favicon: null
-layout_spectrum: 0.28853
+layout_spectrum: 0.00352
 typography_spectrum: 0.53491
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fce5f7'
-    - '#cc4aaf'
-    - '#ac168c'
-    - '#f08cd9'
+    - '#ecdbc1'
+    - '#fef3dd'
+    - '#d6c0a9'
+    - '#4e3f3a'
+    - '#7a7977'
   brandStrength: 0.5
   lightness: 0.5339901787228882
   saturation: 1
