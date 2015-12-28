@@ -1,6 +1,6 @@
 name: Mike Katilius
 favicon: null
-layout_spectrum: 0.384645314887166
+layout_spectrum: 0.28853
 typography_spectrum: 0.6376471784897149
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#f08cd9'
   brandStrength: 0.5
   lightness: 0.5339901787228882
-  saturation: 0.6075684695970267
+  saturation: 1
   rhythmicContrast: 0.07822835305705667
 purpose: []
